@@ -1,0 +1,21 @@
+{
+  "flashcards": [
+    {
+      "front": "Who sang the song, \"A Hard Day's Night\"?",
+      "back": "The Beatles"
+    },
+    {
+      "front": "Who sang, \"Then one day you find, ten years have got behind you. No one told you when to run, you missed the starting gun.\"?",
+      "back": "Pink Floyd"
+    },
+    {
+      "front": "Who \"heard it through the grapevine\"?",
+      "back": "Marvin Gaye"
+    },
+    {
+      "fullText": "All lies and jest, still, a man hears what he wants to hear and disregards the rest.",
+      "cloze": "disregards the rest",
+      "partialText": "All lies and jest, still, a man hears what he wants to hear and ...."
+    }
+  ]
+}

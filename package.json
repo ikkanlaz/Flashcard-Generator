@@ -4,7 +4,8 @@
   "description": "",
   "main": "FlashCard.js",
   "dependencies": {
-    "inquirer": "^3.2.0"
+    "inquirer": "^3.2.0",
+    "jsonfile": "^3.0.1"
   },
   "devDependencies": {},
   "scripts": {
